@@ -1,10 +1,10 @@
 function Raw2Mat(Name,Date,Blocks,Arrays,Channels)
-%------------------------------------%
+%-------------------------------------%
 %| Save raw as .mat file  |
 %
 % Reading from RS4 and saving on Minnie
 %
-%------------------------------------%
+%-------------------------------------%
 
 %% Parameters
 dMaxV = 5e-3; %from Serge's original file - for scaling purposes
